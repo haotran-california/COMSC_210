@@ -1,0 +1,1 @@
+ StaticArray<string, 50> stringArray;
